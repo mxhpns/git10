@@ -2,8 +2,11 @@ some
 thing
 else
 is
+APPLE
+BANANA
 asdg
 here
 asdf
 asdf
+PINEAPPLE
 gs
