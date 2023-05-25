@@ -1,4 +1,7 @@
+/folder/
 /node_modules/
 *.exe
+/config.json
+
 /GIT10
 /fork
