@@ -1,5 +1,6 @@
+/folder/
 /node_modules/
 *.exe
 /config.json
-/folder
+/folder/
 
